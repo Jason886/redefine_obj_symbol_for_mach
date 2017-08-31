@@ -1,3 +1,7 @@
+#! /bin/bash
+
+## 功能:修改单架构.a文件中所有.o的符号表
+
 function redefine_one()
 {
 LIB_ORI=$1

@@ -1,3 +1,7 @@
+/*
+ * 修改mach平台.o文件的符号表
+ *
+ */
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
