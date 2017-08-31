@@ -1,0 +1,1 @@
+# redefine_obj_symbol_for_mach
